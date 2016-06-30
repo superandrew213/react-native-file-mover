@@ -1,0 +1,25 @@
+{
+  "name": "react-native-file-mover",
+  "version": "0.0.1",
+  "description": "Move files with React Native",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "ios",
+    "files",
+    "fs"
+  ],
+  "peerDependencies": {
+    "react-native": ">=v0.14.2"
+  },
+  "author": "Andrew Shini <superandrew213@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
